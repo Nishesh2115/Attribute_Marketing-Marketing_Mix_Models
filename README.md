@@ -72,6 +72,8 @@ Before going to Markov Chain Model, lets understand the data for this case study
 
 # Data
 
+You can download the data from here- https://drive.google.com/file/d/1KhT9fp9CCAhc6j7y6W6BeMNZvsXM_9NR/view?usp=sharing
+
 Here we have a interesting data, we have a data in which a ad have been showed to people through different channels like instagram,online display, paid search, youtube video, facebook.
 
 Lets discuss Features...
@@ -160,7 +162,7 @@ Memeoryless property states that probability of reaching to the current state ju
 
 Lets say a user was shown a Facebood ad first, then a Google ad, Now we want to know the probabilty that he will purchase the product, so according to markov memory less property, probability of coversion depends upon the previous state which is a Google ad in this case so HERE IN THIS CASE
 
-# P(CONVERSION/GOOGLE_AD, FACEBOOK_AD)=P(CONVERSION/GOOGLE_AD)=0.3(given in the diagram)
+P(CONVERSION/GOOGLE_AD, FACEBOOK_AD)=P(CONVERSION/GOOGLE_AD)=0.3(given in the diagram)
 
 Marcov memory less property/assumption makes our life very simple as it neglects the path but if we think logically probability of conversion here just do not depends on Google_ad, it also depends upon Facebook_ad but here we are neglecting that.
 
