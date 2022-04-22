@@ -1,6 +1,6 @@
 # Attribute_Marketing-Marketing_Mix_Models
 
-# Blog Link- https://medium.com/p/e8a0d644e35d/edit
+# Blog Link- https://medium.com/@nishesh.kumar/how-machine-learning-is-changing-the-digital-marketing-industry-attribute-marketing-models-e8a0d644e35d
 # Business Problem
 
 All the companies invest a lot of money on Digital Marketing these days on different channels like Email ADs, Google ADs, Instagram Feed, Youtube Ads, Facebook Feed etc.
